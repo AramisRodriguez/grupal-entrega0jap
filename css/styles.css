@@ -20,6 +20,13 @@ body {
     height: calc(100vh - 58px);
 }
 
-
+.h3_gradient {
+    background-image: linear-gradient(to right, rgb(183, 0, 255), rgba(0, 0, 0, 0));
+    color: white;
+    font-weight: bold;
+    font-size: 3em;
+    padding: 15px 0 15px 100px;
+    box-shadow: 2px 2px  rgb(0, 0, 0);
+}
 
 
